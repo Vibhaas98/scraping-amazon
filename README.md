@@ -12,7 +12,7 @@ it scrape various things
 By default it scrapes `Mobile Phones`  from `Amazon`.
 In case you want to change it to scrape other product, follow the instructions
 1. Open file `web-crawler-for-amazon/spiders/amazon_web.py`
-2. Chnage the `urls` list at line `16
+2. Chnage the `urls` list
 
 # Execute Amazon Scraper
 you can execute the following command
